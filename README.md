@@ -19,7 +19,7 @@ This project is licensed under the Apache 2.0 License & all rights reserved to a
 <div align = "center">
  <h3>Thank you for being a part of this project!</h3>
 
-![Contributors](https://contrib.rocks/image?repo=TejasNasre/nexmeet)<br>
+![Contributors]([https://contrib.rocks/image?repo=TejasNasre/nexmeet](https://contrib.rocks/image?repo=KGupta2601/HackThisFall_InterestFusion))<br>
 
 </div>
 
